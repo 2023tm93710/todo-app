@@ -1,5 +1,6 @@
 # Todo App GraphQL API
 
+This project implements a GraphQL API for a Todo application. It allows users to register, login, manage their todos, and perform other CRUD operations.
 
 ## Technologies Used
 
