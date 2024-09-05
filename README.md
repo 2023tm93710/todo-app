@@ -11,6 +11,7 @@ This project implements a GraphQL API for a Todo application. It allows users to
 - **Sequelize**: An ORM for Node.js that supports PostgreSQL among other databases.
 - **PostgreSQL**: A powerful, open-source relational database system.
 - **JWT (JSON Web Tokens)**: A standard for securely transmitting information between parties as a JSON object.
+- **Redis**: A source-available, in-memory storage, used as a distributed, in-memory key–value database, cache, with durability.
 - **dotenv**: A zero-dependency module that loads environment variables from a `.env` file into `process.env`.
 
 ## Prerequisites
@@ -19,6 +20,7 @@ Before running the project, ensure you have the following installed:
 
 - Node.js
 - PostgreSQL
+- Redis
 
 ## Getting Started
 
